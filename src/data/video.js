@@ -14,7 +14,32 @@ const video = {
     },
     {
       id: 2,
-      user: "gaeron",
+      user: "Gagi",
+      comment: "first!",
+    },
+    {
+      id: 3,
+      user: "melis",
+      comment: "first!",
+    },
+    {
+      id: 4,
+      user: "Nino",
+      comment: "What a great tutorial!",
+    },
+    {
+      id: 5,
+      user: "nat",
+      comment: "What a great tutorial!",
+    },
+    {
+      id: 6,
+      user: "samsa",
+      comment: "What a great tutorial!",
+    },
+    {
+      id: 7,
+      user: "meme",
       comment: "What a great tutorial!",
     },
   ],
